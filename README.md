@@ -1,8 +1,6 @@
-title: My Portfolio
+**Welcome !**
 
-**Welcome to my portfolio!**
-
-This portfolio showcases my skills and projects developed using a combination of:
+This portfolio is a test portfolio code :
 
 * **React:** A powerful JavaScript library for building user interfaces.
 * **Tailwind CSS:** A utility-first CSS framework for rapid and efficient styling.
